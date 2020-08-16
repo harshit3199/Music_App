@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484072130627",
+    "firebase_url": "https://musicapp-7a3b5.firebaseio.com",
+    "project_id": "musicapp-7a3b5",
+    "storage_bucket": "musicapp-7a3b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484072130627:android:611f4f3fd53be4e9af6cf6",
+        "android_client_info": {
+          "package_name": "com.harandor.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484072130627-9003vlp4am43kqc4o54ol5t46muf3on4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeO69ylNozlGHL0tg-Vl2hLyskj250Pz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484072130627-9003vlp4am43kqc4o54ol5t46muf3on4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
